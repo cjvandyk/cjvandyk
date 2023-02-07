@@ -1,16 +1,17 @@
-### Hi there 👋
+![Visitor Count](https://profile-counter.glitch.me/{cjvandyk}/count.svg)
 
-<!--
-**cjvandyk/cjvandyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My name is **Cornelius J. van Dyk**
+- I'm a **M365 Expert/Full Stack Developer with 9 Microsoft MVP Awards**
+- **Skills**: C/C++/C#, .NET, SQL, Azure, M365, SharePoint, GCCHigh, TypeScript, JavaScript, jQuery, Bootstrap, Angular, Node, HTML, CSS, Huron ObjectStar
 
-Here are some ideas to get you started:
+#### ✨ My Latest Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Extensions.cs | Language extensions for C# | [github](https://github.com/cjvandyk/Extensions) | [nuget](https://www.nuget.org/packages/Extensions.cs)
+
+#### 📜 My Blog
+
+- [blog.cjvandyk.com](https://blog.cjvandyk.com)
+
+#### 📫 How to reach me
+
+- **Gmail**: c+github@dtdn.com
