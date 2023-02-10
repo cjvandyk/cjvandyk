@@ -6,7 +6,7 @@
 
 #### ✨ My Latest Projects
 
-- Extensions.cs | Language extensions for C# | [github](https://github.com/cjvandyk/Extensions) | [nuget](https://www.nuget.org/packages/Extensions.cs)
+![Nuget](https://img.shields.io/nuget/dt/Extensions.cs?label=Extensions.cs) | Language extensions for C# | [github](https://github.com/cjvandyk/Extensions) | [nuget](https://www.nuget.org/packages/Extensions.cs)
 
 #### 📜 My Blog
 
