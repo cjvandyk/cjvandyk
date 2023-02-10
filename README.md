@@ -1,4 +1,4 @@
-<h1>**Cornelius J. van Dyk**</h1>
+<h1>Cornelius J. van Dyk</h1>
 
 - My name is **Corné**
 - I'm a **M365 Expert/Full Stack Developer with 9 Microsoft MVP Awards**
