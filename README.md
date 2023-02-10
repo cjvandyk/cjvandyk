@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/{cjvandyk}/count.svg)
+<h1>![Visitor Count](https://profile-counter.glitch.me/{cjvandyk}/count.svg)</h1>
 
 - My name is **Cornelius J. van Dyk**
 - I'm a **M365 Expert/Full Stack Developer with 9 Microsoft MVP Awards**
@@ -6,7 +6,7 @@
 
 #### ✨ My Latest Projects
 
-- Extensions.cs | Language extensions for C# | [github](https://github.com/cjvandyk/Extensions) | [nuget](https://www.nuget.org/packages/Extensions.cs)
+![Nuget](https://img.shields.io/nuget/dt/Extensions.cs?label=Extensions.cs) | Language extensions for C# | [GitHub](https://github.com/cjvandyk/Extensions) | [Nuget](https://www.nuget.org/packages/Extensions.cs)
 
 #### 📜 My Blog
 
